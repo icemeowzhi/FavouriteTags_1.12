@@ -1,0 +1,16 @@
+[
+{
+  "modid": "favourite_tags",
+  "name": "Favourite Tags",
+  "description": "A mod that added various tags.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["icemeowzhi"],
+  "credits": "The minecraft community.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
